@@ -1,0 +1,21 @@
+.personal_image{
+    width: 150px;
+    height: auto;
+}
+
+.business_card{
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: #ddebf8;
+    color:#2b2839 ;
+    border-bottom: 10px solid #d8cefe;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.border_blue{
+    border: 1px dotted blue;
+    text-align: center;
+}
